@@ -17,9 +17,12 @@ The project demonstrates the integration of diverse datasets and the application
 ## References
 [1] Port of Los Angeles - Historic Tonage Data Short Ton (1920-1970):
 https://catalog.data.gov/dataset/port-of-los-angeles-historic-tonage-data-short-ton-1920-1970
+
 [2] Port of Los Angeles - Historic Tonage Data MMRT:
 https://catalog.data.gov/dataset/port-of-los-angeles-historic-tonage-data-mmrt
+
 [3] Annual Gross Domestic Product and real GDP in the United States from 1929 to 2022
 https://www.statista.com/statistics/1031678/gdp-and-real-gdp-united-states-1930-2019/
+
 [4] Annual oil production by world region from 1965 to 2022
 https://www.statista.com/statistics/1360491/oil-production-world-regions-twh/
